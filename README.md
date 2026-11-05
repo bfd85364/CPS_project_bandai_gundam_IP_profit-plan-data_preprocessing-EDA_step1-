@@ -1,1 +1,0 @@
-# CPS_project_bandai_gundam_IP_profit-plan-data_preprocessing-EDA_step1-
